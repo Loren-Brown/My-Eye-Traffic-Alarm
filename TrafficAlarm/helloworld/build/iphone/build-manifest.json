@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "iphone",
+	"iosSdkPath": "/Users/lorenbrown/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "4e16b93101e69e91e961bb5062a733e4",
+	"modulesNativeHash": "e08292e271a0d5863c72cbf4cf65445a",
+	"gitHash": "787cd39",
+	"name": "helloworld",
+	"id": "edu.oregonstate.helloworld",
+	"analytics": true,
+	"publisher": "lorenbrown",
+	"url": "http://web.engr.oregonstate.edu/~brownlor/",
+	"version": "1.0",
+	"description": "undefined",
+	"copyright": "2014 by lorenbrown",
+	"guid": "58761cc2-1197-480f-8c6d-3db4f92b63bf",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false,
+	"encryptJS": false
+}
